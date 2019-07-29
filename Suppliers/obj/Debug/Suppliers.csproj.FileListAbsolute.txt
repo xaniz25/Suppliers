@@ -1,0 +1,10 @@
+C:\Users\574165\source\repos\Suppliers\Suppliers\bin\Debug\Suppliers.exe.config
+C:\Users\574165\source\repos\Suppliers\Suppliers\bin\Debug\Suppliers.exe
+C:\Users\574165\source\repos\Suppliers\Suppliers\bin\Debug\Suppliers.pdb
+C:\Users\574165\source\repos\Suppliers\Suppliers\obj\Debug\Suppliers.csprojAssemblyReference.cache
+C:\Users\574165\source\repos\Suppliers\Suppliers\obj\Debug\Suppliers.Form1.resources
+C:\Users\574165\source\repos\Suppliers\Suppliers\obj\Debug\Suppliers.Properties.Resources.resources
+C:\Users\574165\source\repos\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.GenerateResource.cache
+C:\Users\574165\source\repos\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.CoreCompileInputs.cache
+C:\Users\574165\source\repos\Suppliers\Suppliers\obj\Debug\Suppliers.exe
+C:\Users\574165\source\repos\Suppliers\Suppliers\obj\Debug\Suppliers.pdb
